@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ex1Collection", "Ex1Collection", "{C2C6AAAB-A4E9-4121-A800-6F14B8478A18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListCollection", "Eg1Collection\ArrayListCollection.csproj", "{CE67F243-4D19-42DE-ADD9-499F9E775852}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayListCollection", "Eg1Collection\ArrayListCollection.csproj", "{CE67F243-4D19-42DE-ADD9-499F9E775852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{CBEEDF42-5FDF-48E8-AE02-575D73DAE947}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +19,17 @@ Global
 		{CE67F243-4D19-42DE-ADD9-499F9E775852}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE67F243-4D19-42DE-ADD9-499F9E775852}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE67F243-4D19-42DE-ADD9-499F9E775852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBEEDF42-5FDF-48E8-AE02-575D73DAE947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEEDF42-5FDF-48E8-AE02-575D73DAE947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEEDF42-5FDF-48E8-AE02-575D73DAE947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEEDF42-5FDF-48E8-AE02-575D73DAE947}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CE67F243-4D19-42DE-ADD9-499F9E775852} = {C2C6AAAB-A4E9-4121-A800-6F14B8478A18}
+		{CBEEDF42-5FDF-48E8-AE02-575D73DAE947} = {C2C6AAAB-A4E9-4121-A800-6F14B8478A18}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {89E37F21-E594-4238-92C2-4963A08761C0}
