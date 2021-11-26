@@ -41,7 +41,7 @@ namespace BitArrayCs
             byte[] myByte = new byte[5] { 1, 2, 3, 4, 5 };
             BitArray myBA4 = new BitArray(myByte);
             Console.WriteLine("So bit của mảng Bitarray là {0}", myBA4.Length);
-            PrintBits() 
+          
                 #endregion
 
 
