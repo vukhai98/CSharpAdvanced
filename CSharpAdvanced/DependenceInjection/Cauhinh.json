@@ -1,0 +1,11 @@
+{
+  "section1": {
+    "key1": " value1",
+    "key2": 22333
+  },
+  "MySericeOptions": {
+    "data1": "Stady Dependency injection",
+    "data2":  12334
+  }
+
+}

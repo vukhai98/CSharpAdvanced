@@ -1,4 +1,8 @@
 ﻿using System;
+using DependenceInjection.Demo1;
+using DependenceInjection.Demo2;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Options;
 
 namespace DependenceInjection
 {
@@ -23,20 +27,22 @@ namespace DependenceInjection
     //    }
     //}
     #endregion
-    interface IClassB
+
+    #region Depedency Injection
+    public interface IClassB
     {
         public void ActionB();
     }
-    interface IClassC
+    public interface IClassC
     {
         public void ActionC();
     }
-    class ClassC : IClassC
+    public class ClassC : IClassC
     {
         public void ActionC() => Console.WriteLine("Action in ClassC");
     }
 
-    class ClassB : IClassB
+    public class ClassB : IClassB
     {
         // Phụ thuộc của ClassB là ClassC
         IClassC c_dependency;
@@ -49,7 +55,7 @@ namespace DependenceInjection
         }
     }
 
-    class ClassA
+    public class ClassA
     {
         // Phụ thuộc của ClassA là ClassB
         IClassB b_dependency;
@@ -60,9 +66,9 @@ namespace DependenceInjection
             Console.WriteLine("Action in ClassA");
             b_dependency.ActionB();
         }
-       
+
     }
-    class ClassC1 : IClassC
+    public class ClassC1 : IClassC
     {
         public ClassC1() => Console.WriteLine("ClassC1 is created");
         public void ActionC()
@@ -71,7 +77,7 @@ namespace DependenceInjection
         }
     }
 
-    class ClassB1 : IClassB
+    public class ClassB1 : IClassB
     {
         IClassC c_dependency;
         public ClassB1(IClassC classc)
@@ -85,18 +91,35 @@ namespace DependenceInjection
             c_dependency.ActionC();
         }
     }
+    public class ClassB2 : IClassB
+    {
+        IClassC c_dependency;
+        string message;
+        public ClassB2(IClassC classc, string mgs)
+        {
+            c_dependency = classc;
+            message = mgs;
+            Console.WriteLine("ClassB2 is created");
+        }
+        public void ActionB()
+        {
+            Console.WriteLine(message);
+            c_dependency.ActionC();
+        }
+    }
+    #endregion
+
+  
     class Program
     {
+
         static void Main(string[] args)
         {
-            //var b = new  ClassB();
-            //b.ActionB();
-            IClassC objectC = new ClassC1(); //new ClassC();
-            IClassB objectB = new ClassB1(objectC);
-            ClassA objectA = new ClassA(objectB);
-
-            objectA.ActionA();
-
+            //DemoP1.Init();
+            DemoP2.Init();
+      
         }
+
+
     }
 }
