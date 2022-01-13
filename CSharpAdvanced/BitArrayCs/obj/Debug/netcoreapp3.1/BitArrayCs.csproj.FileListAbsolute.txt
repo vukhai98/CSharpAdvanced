@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\BitArrayCs\bin\Debug\netcoreapp3.1\BitArrayCs.exe
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\BitArrayCs\bin\Debug\netcoreapp3.1\BitArrayCs.deps.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\BitArrayCs\bin\Debug\netcoreapp3.1\BitArrayCs.runtimeconfig.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\BitArrayCs\bin\Debug\netcoreapp3.1\BitArrayCs.runtimeconfig.dev.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\BitArrayCs\bin\Debug\netcoreapp3.1\BitArrayCs.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\BitArrayCs\bin\Debug\netcoreapp3.1\BitArrayCs.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\BitArrayCs\obj\Debug\netcoreapp3.1\BitArrayCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\BitArrayCs\obj\Debug\netcoreapp3.1\BitArrayCs.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\BitArrayCs\obj\Debug\netcoreapp3.1\BitArrayCs.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\BitArrayCs\obj\Debug\netcoreapp3.1\BitArrayCs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\BitArrayCs\obj\Debug\netcoreapp3.1\BitArrayCs.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\BitArrayCs\obj\Debug\netcoreapp3.1\BitArrayCs.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\BitArrayCs\obj\Debug\netcoreapp3.1\BitArrayCs.genruntimeconfig.cache

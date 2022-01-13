@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Eg1Collection\bin\Debug\netcoreapp3.1\ArrayListCollection.exe
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Eg1Collection\bin\Debug\netcoreapp3.1\ArrayListCollection.deps.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Eg1Collection\bin\Debug\netcoreapp3.1\ArrayListCollection.runtimeconfig.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Eg1Collection\bin\Debug\netcoreapp3.1\ArrayListCollection.runtimeconfig.dev.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Eg1Collection\bin\Debug\netcoreapp3.1\ArrayListCollection.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Eg1Collection\bin\Debug\netcoreapp3.1\ArrayListCollection.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Eg1Collection\obj\Debug\netcoreapp3.1\ArrayListCollection.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Eg1Collection\obj\Debug\netcoreapp3.1\ArrayListCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Eg1Collection\obj\Debug\netcoreapp3.1\ArrayListCollection.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Eg1Collection\obj\Debug\netcoreapp3.1\ArrayListCollection.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Eg1Collection\obj\Debug\netcoreapp3.1\ArrayListCollection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Eg1Collection\obj\Debug\netcoreapp3.1\ArrayListCollection.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Eg1Collection\obj\Debug\netcoreapp3.1\ArrayListCollection.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Eg1Collection\obj\Debug\netcoreapp3.1\ArrayListCollection.genruntimeconfig.cache

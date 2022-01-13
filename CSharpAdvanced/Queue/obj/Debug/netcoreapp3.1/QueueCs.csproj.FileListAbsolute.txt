@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Queue\bin\Debug\netcoreapp3.1\QueueCs.exe
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Queue\bin\Debug\netcoreapp3.1\QueueCs.deps.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Queue\bin\Debug\netcoreapp3.1\QueueCs.runtimeconfig.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Queue\bin\Debug\netcoreapp3.1\QueueCs.runtimeconfig.dev.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Queue\bin\Debug\netcoreapp3.1\QueueCs.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Queue\bin\Debug\netcoreapp3.1\QueueCs.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Queue\obj\Debug\netcoreapp3.1\QueueCs.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Queue\obj\Debug\netcoreapp3.1\QueueCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Queue\obj\Debug\netcoreapp3.1\QueueCs.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Queue\obj\Debug\netcoreapp3.1\QueueCs.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Queue\obj\Debug\netcoreapp3.1\QueueCs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Queue\obj\Debug\netcoreapp3.1\QueueCs.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Queue\obj\Debug\netcoreapp3.1\QueueCs.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Queue\obj\Debug\netcoreapp3.1\QueueCs.genruntimeconfig.cache

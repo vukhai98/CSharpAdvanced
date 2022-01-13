@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\DictionaryInCsharp\bin\Debug\netcoreapp3.1\DictionaryInCsharp.exe
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\DictionaryInCsharp\bin\Debug\netcoreapp3.1\DictionaryInCsharp.deps.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\DictionaryInCsharp\bin\Debug\netcoreapp3.1\DictionaryInCsharp.runtimeconfig.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\DictionaryInCsharp\bin\Debug\netcoreapp3.1\DictionaryInCsharp.runtimeconfig.dev.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\DictionaryInCsharp\bin\Debug\netcoreapp3.1\DictionaryInCsharp.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\DictionaryInCsharp\bin\Debug\netcoreapp3.1\DictionaryInCsharp.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\DictionaryInCsharp\obj\Debug\netcoreapp3.1\DictionaryInCsharp.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\DictionaryInCsharp\obj\Debug\netcoreapp3.1\DictionaryInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\DictionaryInCsharp\obj\Debug\netcoreapp3.1\DictionaryInCsharp.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\DictionaryInCsharp\obj\Debug\netcoreapp3.1\DictionaryInCsharp.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\DictionaryInCsharp\obj\Debug\netcoreapp3.1\DictionaryInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\DictionaryInCsharp\obj\Debug\netcoreapp3.1\DictionaryInCsharp.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\DictionaryInCsharp\obj\Debug\netcoreapp3.1\DictionaryInCsharp.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\DictionaryInCsharp\obj\Debug\netcoreapp3.1\DictionaryInCsharp.genruntimeconfig.cache

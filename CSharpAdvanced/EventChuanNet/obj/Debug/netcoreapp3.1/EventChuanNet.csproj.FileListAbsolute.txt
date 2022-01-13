@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventChuanNet\bin\Debug\netcoreapp3.1\EventChuanNet.exe
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventChuanNet\bin\Debug\netcoreapp3.1\EventChuanNet.deps.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventChuanNet\bin\Debug\netcoreapp3.1\EventChuanNet.runtimeconfig.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventChuanNet\bin\Debug\netcoreapp3.1\EventChuanNet.runtimeconfig.dev.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventChuanNet\bin\Debug\netcoreapp3.1\EventChuanNet.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventChuanNet\bin\Debug\netcoreapp3.1\EventChuanNet.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventChuanNet\obj\Debug\netcoreapp3.1\EventChuanNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventChuanNet\obj\Debug\netcoreapp3.1\EventChuanNet.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventChuanNet\obj\Debug\netcoreapp3.1\EventChuanNet.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventChuanNet\obj\Debug\netcoreapp3.1\EventChuanNet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventChuanNet\obj\Debug\netcoreapp3.1\EventChuanNet.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventChuanNet\obj\Debug\netcoreapp3.1\EventChuanNet.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventChuanNet\obj\Debug\netcoreapp3.1\EventChuanNet.genruntimeconfig.cache

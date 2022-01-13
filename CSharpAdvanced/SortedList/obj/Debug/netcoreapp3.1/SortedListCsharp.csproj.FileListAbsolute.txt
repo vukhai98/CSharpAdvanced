@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\SortedList\bin\Debug\netcoreapp3.1\SortedListCsharp.exe
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\SortedList\bin\Debug\netcoreapp3.1\SortedListCsharp.deps.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\SortedList\bin\Debug\netcoreapp3.1\SortedListCsharp.runtimeconfig.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\SortedList\bin\Debug\netcoreapp3.1\SortedListCsharp.runtimeconfig.dev.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\SortedList\bin\Debug\netcoreapp3.1\SortedListCsharp.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\SortedList\bin\Debug\netcoreapp3.1\SortedListCsharp.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\SortedList\obj\Debug\netcoreapp3.1\SortedListCsharp.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\SortedList\obj\Debug\netcoreapp3.1\SortedListCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\SortedList\obj\Debug\netcoreapp3.1\SortedListCsharp.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\SortedList\obj\Debug\netcoreapp3.1\SortedListCsharp.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\SortedList\obj\Debug\netcoreapp3.1\SortedListCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\SortedList\obj\Debug\netcoreapp3.1\SortedListCsharp.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\SortedList\obj\Debug\netcoreapp3.1\SortedListCsharp.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\SortedList\obj\Debug\netcoreapp3.1\SortedListCsharp.genruntimeconfig.cache

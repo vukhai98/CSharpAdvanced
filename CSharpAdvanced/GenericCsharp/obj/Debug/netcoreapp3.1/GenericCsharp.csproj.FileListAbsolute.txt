@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\GenericCsharp\bin\Debug\netcoreapp3.1\GenericCsharp.exe
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\GenericCsharp\bin\Debug\netcoreapp3.1\GenericCsharp.deps.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\GenericCsharp\bin\Debug\netcoreapp3.1\GenericCsharp.runtimeconfig.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\GenericCsharp\bin\Debug\netcoreapp3.1\GenericCsharp.runtimeconfig.dev.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\GenericCsharp\bin\Debug\netcoreapp3.1\GenericCsharp.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\GenericCsharp\bin\Debug\netcoreapp3.1\GenericCsharp.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\GenericCsharp\obj\Debug\netcoreapp3.1\GenericCsharp.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\GenericCsharp\obj\Debug\netcoreapp3.1\GenericCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\GenericCsharp\obj\Debug\netcoreapp3.1\GenericCsharp.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\GenericCsharp\obj\Debug\netcoreapp3.1\GenericCsharp.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\GenericCsharp\obj\Debug\netcoreapp3.1\GenericCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\GenericCsharp\obj\Debug\netcoreapp3.1\GenericCsharp.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\GenericCsharp\obj\Debug\netcoreapp3.1\GenericCsharp.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\GenericCsharp\obj\Debug\netcoreapp3.1\GenericCsharp.genruntimeconfig.cache

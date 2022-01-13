@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Networking3\bin\Debug\netcoreapp3.1\Networking3.exe
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Networking3\bin\Debug\netcoreapp3.1\Networking3.deps.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Networking3\bin\Debug\netcoreapp3.1\Networking3.runtimeconfig.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Networking3\bin\Debug\netcoreapp3.1\Networking3.runtimeconfig.dev.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Networking3\bin\Debug\netcoreapp3.1\Networking3.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Networking3\bin\Debug\netcoreapp3.1\Networking3.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Networking3\obj\Debug\netcoreapp3.1\Networking3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Networking3\obj\Debug\netcoreapp3.1\Networking3.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Networking3\obj\Debug\netcoreapp3.1\Networking3.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Networking3\obj\Debug\netcoreapp3.1\Networking3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Networking3\obj\Debug\netcoreapp3.1\Networking3.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Networking3\obj\Debug\netcoreapp3.1\Networking3.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Networking3\obj\Debug\netcoreapp3.1\Networking3.genruntimeconfig.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Networking3\obj\Debug\netcoreapp3.1\Networking3.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Networking3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

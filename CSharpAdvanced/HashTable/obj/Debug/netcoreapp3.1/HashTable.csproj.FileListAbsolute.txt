@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\HashTable\bin\Debug\netcoreapp3.1\HashTable.exe
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\HashTable\bin\Debug\netcoreapp3.1\HashTable.deps.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.dev.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\HashTable\bin\Debug\netcoreapp3.1\HashTable.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\HashTable\bin\Debug\netcoreapp3.1\HashTable.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\HashTable\obj\Debug\netcoreapp3.1\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\HashTable\obj\Debug\netcoreapp3.1\HashTable.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\HashTable\obj\Debug\netcoreapp3.1\HashTable.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\HashTable\obj\Debug\netcoreapp3.1\HashTable.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\HashTable\obj\Debug\netcoreapp3.1\HashTable.genruntimeconfig.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\HashTable\obj\Debug\netcoreapp3.1\HashTable.csproj.AssemblyReference.cache

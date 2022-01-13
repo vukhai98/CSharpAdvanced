@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Asynchornous\bin\Debug\netcoreapp3.1\Asynchornous.exe
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Asynchornous\bin\Debug\netcoreapp3.1\Asynchornous.deps.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Asynchornous\bin\Debug\netcoreapp3.1\Asynchornous.runtimeconfig.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Asynchornous\bin\Debug\netcoreapp3.1\Asynchornous.runtimeconfig.dev.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Asynchornous\bin\Debug\netcoreapp3.1\Asynchornous.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Asynchornous\bin\Debug\netcoreapp3.1\Asynchornous.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Asynchornous\obj\Debug\netcoreapp3.1\Asynchornous.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Asynchornous\obj\Debug\netcoreapp3.1\Asynchornous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Asynchornous\obj\Debug\netcoreapp3.1\Asynchornous.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Asynchornous\obj\Debug\netcoreapp3.1\Asynchornous.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Asynchornous\obj\Debug\netcoreapp3.1\Asynchornous.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Asynchornous\obj\Debug\netcoreapp3.1\Asynchornous.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Asynchornous\obj\Debug\netcoreapp3.1\Asynchornous.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\Asynchornous\obj\Debug\netcoreapp3.1\Asynchornous.genruntimeconfig.cache

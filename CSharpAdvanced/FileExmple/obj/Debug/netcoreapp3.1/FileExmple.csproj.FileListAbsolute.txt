@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\FileExmple\bin\Debug\netcoreapp3.1\FileExmple.exe
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\FileExmple\bin\Debug\netcoreapp3.1\FileExmple.deps.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\FileExmple\bin\Debug\netcoreapp3.1\FileExmple.runtimeconfig.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\FileExmple\bin\Debug\netcoreapp3.1\FileExmple.runtimeconfig.dev.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\FileExmple\bin\Debug\netcoreapp3.1\FileExmple.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\FileExmple\bin\Debug\netcoreapp3.1\FileExmple.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\FileExmple\obj\Debug\netcoreapp3.1\FileExmple.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\FileExmple\obj\Debug\netcoreapp3.1\FileExmple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\FileExmple\obj\Debug\netcoreapp3.1\FileExmple.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\FileExmple\obj\Debug\netcoreapp3.1\FileExmple.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\FileExmple\obj\Debug\netcoreapp3.1\FileExmple.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\FileExmple\obj\Debug\netcoreapp3.1\FileExmple.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\FileExmple\obj\Debug\netcoreapp3.1\FileExmple.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\FileExmple\obj\Debug\netcoreapp3.1\FileExmple.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\TypeTuple\bin\Debug\netcoreapp3.1\TypeTuple.exe
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\TypeTuple\bin\Debug\netcoreapp3.1\TypeTuple.deps.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\TypeTuple\bin\Debug\netcoreapp3.1\TypeTuple.runtimeconfig.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\TypeTuple\bin\Debug\netcoreapp3.1\TypeTuple.runtimeconfig.dev.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\TypeTuple\bin\Debug\netcoreapp3.1\TypeTuple.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\TypeTuple\bin\Debug\netcoreapp3.1\TypeTuple.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\TypeTuple\obj\Debug\netcoreapp3.1\TypeTuple.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\TypeTuple\obj\Debug\netcoreapp3.1\TypeTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\TypeTuple\obj\Debug\netcoreapp3.1\TypeTuple.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\TypeTuple\obj\Debug\netcoreapp3.1\TypeTuple.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\TypeTuple\obj\Debug\netcoreapp3.1\TypeTuple.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\TypeTuple\obj\Debug\netcoreapp3.1\TypeTuple.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\TypeTuple\obj\Debug\netcoreapp3.1\TypeTuple.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\TypeTuple\obj\Debug\netcoreapp3.1\TypeTuple.genruntimeconfig.cache

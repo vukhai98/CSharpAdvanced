@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.exe
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.deps.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.runtimeconfig.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.runtimeconfig.dev.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.genruntimeconfig.cache

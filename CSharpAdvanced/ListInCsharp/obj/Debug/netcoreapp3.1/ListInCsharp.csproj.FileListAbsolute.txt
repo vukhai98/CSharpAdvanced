@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\ListInCsharp\bin\Debug\netcoreapp3.1\ListInCsharp.exe
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\ListInCsharp\bin\Debug\netcoreapp3.1\ListInCsharp.deps.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\ListInCsharp\bin\Debug\netcoreapp3.1\ListInCsharp.runtimeconfig.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\ListInCsharp\bin\Debug\netcoreapp3.1\ListInCsharp.runtimeconfig.dev.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\ListInCsharp\bin\Debug\netcoreapp3.1\ListInCsharp.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\ListInCsharp\bin\Debug\netcoreapp3.1\ListInCsharp.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\ListInCsharp\obj\Debug\netcoreapp3.1\ListInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\ListInCsharp\obj\Debug\netcoreapp3.1\ListInCsharp.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\ListInCsharp\obj\Debug\netcoreapp3.1\ListInCsharp.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\ListInCsharp\obj\Debug\netcoreapp3.1\ListInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\ListInCsharp\obj\Debug\netcoreapp3.1\ListInCsharp.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\ListInCsharp\obj\Debug\netcoreapp3.1\ListInCsharp.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\ListInCsharp\obj\Debug\netcoreapp3.1\ListInCsharp.genruntimeconfig.cache

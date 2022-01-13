@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventwithDelegate\bin\Debug\netcoreapp3.1\EventwithDelegate.exe
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventwithDelegate\bin\Debug\netcoreapp3.1\EventwithDelegate.deps.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventwithDelegate\bin\Debug\netcoreapp3.1\EventwithDelegate.runtimeconfig.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventwithDelegate\bin\Debug\netcoreapp3.1\EventwithDelegate.runtimeconfig.dev.json
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventwithDelegate\bin\Debug\netcoreapp3.1\EventwithDelegate.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventwithDelegate\bin\Debug\netcoreapp3.1\EventwithDelegate.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventwithDelegate\obj\Debug\netcoreapp3.1\EventwithDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventwithDelegate\obj\Debug\netcoreapp3.1\EventwithDelegate.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventwithDelegate\obj\Debug\netcoreapp3.1\EventwithDelegate.AssemblyInfo.cs
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventwithDelegate\obj\Debug\netcoreapp3.1\EventwithDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventwithDelegate\obj\Debug\netcoreapp3.1\EventwithDelegate.dll
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventwithDelegate\obj\Debug\netcoreapp3.1\EventwithDelegate.pdb
+C:\Users\Admin\Documents\CSharpAdvanced\CSharpAdvanced\EventwithDelegate\obj\Debug\netcoreapp3.1\EventwithDelegate.genruntimeconfig.cache
